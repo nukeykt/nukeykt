@@ -1,6 +1,7 @@
 ### Hi there 👋 I'm nukeykt
 
 - 🔭 I’m currently working on: cycle accurate Mega Drive core, source code reconstructions of Blood, Doom 95
+- :eyes: I'm interested in: reverse engineering old games and integrated circuits
 - 🌱 I’m currently learning: graphics programming, reverse engineering circuits. Want to learn Verilog in future
 - 📫 How to reach me: `nukeykt#0449` on discord, @nukeykt on twitter, mail: alexeytf2 at gmail.com
 
