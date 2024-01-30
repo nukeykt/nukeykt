@@ -1,7 +1,8 @@
 ### Hi there 👋 I'm nukeykt
 
+- 🔭 I’m currently working on: SC-55 emulation
 - :eyes: I'm interested in: reverse engineering old games and integrated circuits
-- 🌱 I’m currently learning: graphics programming, reverse engineering circuits and verilog
+- 🌱 I’m currently learning: reverse engineering circuits and verilog
 - 📫 How to reach me: `nukeykt` on discord, @nukeykt on twitter, mail: alexeytf2 at gmail.com
 
 <!--
